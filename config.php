@@ -1,9 +1,9 @@
 <?php
 
 define('DBHOST', 'localhost');
-define('DBUSER', 'root');
-define('DBPASS', '');
-define('DBNAME', 'aplikasi');
+define('DBUSER', 'u1025002_pencatatan');
+define('DBPASS', 'yudith123');
+define('DBNAME', 'u1025002_pencatatan');
 
 /**
  * $dbconnect : koneksi kedatabase
