@@ -1,4 +1,24 @@
-# Login-bootstrap
-Tutorial Login Bootstrap dan PHP 
+# Penulisan data penjualan
 
-Untuk tutorial selengkapnya ada di : <a href="https://www.onphpid.com/membuat-form-login-dengan-bootstrap-dan-php.html"><strong>Membuat Form login dengan bootstrap dan PHP</strong></a>
+### Prerequisites
+
+The things you need before installing the software.
+
+* Php version 5
+* xampp
+
+### Installation
+
+```
+$ Copy the folder to xampp/htdocs
+```
+make database in localhost
+```
+```
+change dbhost, user, pass, and name to your database in config.php & koneksi.php
+```
+
+
+## Usage
+
+Feel Free to use :)
