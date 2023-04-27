@@ -12,12 +12,12 @@ The things you need before installing the software.
 ```
 $ Copy the folder to xampp/htdocs
 ```
+```
 make database in localhost
 ```
 ```
 change dbhost, user, pass, and name to your database in config.php & koneksi.php
 ```
-
 
 ## Usage
 
